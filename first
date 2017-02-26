@@ -1,0 +1,5 @@
+# my first shell script
+
+clear #clears the screen
+echo "Knowledge is Power" #prints the line in the "":q
+

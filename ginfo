@@ -1,0 +1,9 @@
+#script to print user information of current login, current date and time
+
+clear
+echo "Hello $USER"
+echo "Today is: ";date
+#echo "Number of user login: \c"; who | less
+echo "Calendar"
+cal
+exit 0

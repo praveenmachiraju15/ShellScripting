@@ -1,0 +1,9 @@
+#echo "Welcome to calc"
+
+number1=10
+number2=20
+expr $number1 + $number2
+number10=30
+number4=3
+z=`expr $number10 / $number4`
+echo "Value of z is: "$z

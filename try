@@ -1,0 +1,5 @@
+echo "Printing the contents of 'calc' file"
+
+
+
+cat calc

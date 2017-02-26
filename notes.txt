@@ -1,0 +1,19 @@
+- to give input to a C program from a file use '<' and give the file.extension as the argument
+
+
+variables:
+ user@bash$ no=10
+ user@bash$ echo $no
+10
+ user@bash$
+
+- no spaces between the arguments that are passed
+
+-when evaluating mathematical expressions, use "expr" and the following syntax:
+expr op1 op op2 |->
+
+for example: 
+user@bash$ expr 6 + 3
+9
+user@bash:
+
